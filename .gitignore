@@ -1,0 +1,8 @@
+*.o
+*.a
+test.c
+tmain.c
+*.out
+.DS_Strore
+.vscode*
+settings.json
